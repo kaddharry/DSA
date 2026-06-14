@@ -8,48 +8,40 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-#include <iostream>
-using namespace std;
-//takesoumen collection
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
-        if (!head || !head->next) return head;
-        
-        // Find the middle using slow and fast pointers
+        if(!head || !head->next) return head;
         ListNode* slow = head;
         ListNode* fast = head->next;
+
         while (fast && fast->next) {
             slow = slow->next;
             fast = fast->next->next;
         }
-        
         ListNode* mid = slow->next;
-        slow->next = nullptr;
-        
-        // Recursively split and merge
+        slow->next = NULL;
+
         ListNode* left = sortList(head);
         ListNode* right = sortList(mid);
-        
         return merge(left, right);
     }
-    
-    ListNode* merge(ListNode* l1, ListNode* l2) {
+
+private:
+    ListNode* merge(ListNode* list1, ListNode* list2) {
         ListNode dummy(0);
         ListNode* tail = &dummy;
-        
-        while (l1 && l2) {
-            if (l1->val < l2->val) {
-                tail->next = l1;
-                l1 = l1->next;
+        while (list1 && list2) {
+            if (list1->val < list2->val) {
+                tail->next = list1;
+                list1 = list1->next;
             } else {
-                tail->next = l2;
-                l2 = l2->next;
+                tail->next = list2;
+                list2 = list2->next;
             }
             tail = tail->next;
         }
-        
-        tail->next = l1 ? l1 : l2;
+        tail->next = list1 ? list1 : list2;
         return dummy.next;
     }
 };
