@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kaddharry/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/kaddharry/DSA/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/kaddharry/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kaddharry/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaddharry/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kaddharry/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/kaddharry/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/kaddharry/DSA/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/kaddharry/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/kaddharry/DSA/tree/master/0457-circular-array-loop) |
@@ -91,6 +93,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kaddharry/DSA/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/kaddharry/DSA/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/kaddharry/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kaddharry/DSA/tree/master/0242-valid-anagram) |
@@ -101,6 +104,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kaddharry/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/kaddharry/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kaddharry/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/kaddharry/DSA/tree/master/3612-process-string-with-special-operations-i) |
