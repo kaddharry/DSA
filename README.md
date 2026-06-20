@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kaddharry/DSA/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/kaddharry/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kaddharry/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaddharry/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -67,6 +68,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kaddharry/DSA/tree/master/0001-two-sum) |
 | [0287-find-the-duplicate-number](https://github.com/kaddharry/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/kaddharry/DSA/tree/master/0457-circular-array-loop) |
 | [1732-find-the-highest-altitude](https://github.com/kaddharry/DSA/tree/master/1732-find-the-highest-altitude) |
