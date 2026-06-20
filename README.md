@@ -55,6 +55,7 @@
 | [0002-add-two-numbers](https://github.com/kaddharry/DSA/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/kaddharry/DSA/tree/master/0202-happy-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaddharry/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/kaddharry/DSA/tree/master/1840-maximum-building-height) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kaddharry/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/kaddharry/DSA/tree/master/0457-circular-array-loop) |
 | [1732-find-the-highest-altitude](https://github.com/kaddharry/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1840-maximum-building-height](https://github.com/kaddharry/DSA/tree/master/1840-maximum-building-height) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0148-sort-list](https://github.com/kaddharry/DSA/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/kaddharry/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kaddharry/DSA/tree/master/0242-valid-anagram) |
+| [1840-maximum-building-height](https://github.com/kaddharry/DSA/tree/master/1840-maximum-building-height) |
 ## Merge Sort
 |  |
 | ------- |
