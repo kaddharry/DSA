@@ -49,6 +49,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/kaddharry/DSA/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/kaddharry/DSA/tree/master/0202-happy-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/kaddharry/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Stack
 |  |
 | ------- |
