@@ -11,6 +11,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/kaddharry/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/kaddharry/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kaddharry/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kaddharry/DSA/tree/master/0242-valid-anagram) |
 | [0457-circular-array-loop](https://github.com/kaddharry/DSA/tree/master/0457-circular-array-loop) |
 ## Linked List
 |  |
@@ -91,6 +92,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/kaddharry/DSA/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/kaddharry/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kaddharry/DSA/tree/master/0242-valid-anagram) |
 ## Merge Sort
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/kaddharry/DSA/tree/master/0242-valid-anagram) |
 | [3612-process-string-with-special-operations-i](https://github.com/kaddharry/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kaddharry/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
