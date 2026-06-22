@@ -16,6 +16,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/kaddharry/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/kaddharry/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0457-circular-array-loop](https://github.com/kaddharry/DSA/tree/master/0457-circular-array-loop) |
+| [1189-maximum-number-of-balloons](https://github.com/kaddharry/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [0049-group-anagrams](https://github.com/kaddharry/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/kaddharry/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kaddharry/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/kaddharry/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/kaddharry/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kaddharry/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kaddharry/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/kaddharry/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
 | ------- |
