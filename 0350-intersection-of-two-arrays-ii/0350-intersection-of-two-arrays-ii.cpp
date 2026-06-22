@@ -8,7 +8,7 @@ public:
             freq[x]++;
 
         for (int x : nums2) {
-            if (freq[x] > 0) {
+            if (freq.count(x) && freq[x] > 0) {
                 ans.push_back(x);
                 freq[x]--;
             }
