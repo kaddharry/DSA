@@ -16,6 +16,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/kaddharry/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/kaddharry/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0457-circular-array-loop](https://github.com/kaddharry/DSA/tree/master/0457-circular-array-loop) |
+| [0560-subarray-sum-equals-k](https://github.com/kaddharry/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/kaddharry/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
@@ -82,6 +83,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kaddharry/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kaddharry/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0457-circular-array-loop](https://github.com/kaddharry/DSA/tree/master/0457-circular-array-loop) |
+| [0560-subarray-sum-equals-k](https://github.com/kaddharry/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/kaddharry/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaddharry/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/kaddharry/DSA/tree/master/1840-maximum-building-height) |
@@ -129,6 +131,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kaddharry/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/kaddharry/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Queue
 |  |
