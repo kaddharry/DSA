@@ -67,6 +67,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kaddharry/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/kaddharry/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/kaddharry/DSA/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaddharry/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -123,6 +124,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kaddharry/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kaddharry/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/kaddharry/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kaddharry/DSA/tree/master/0290-word-pattern) |
