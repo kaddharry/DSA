@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kaddharry/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kaddharry/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/kaddharry/DSA/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/kaddharry/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kaddharry/DSA/tree/master/0141-linked-list-cycle) |
@@ -129,6 +130,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kaddharry/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/kaddharry/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kaddharry/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/kaddharry/DSA/tree/master/0242-valid-anagram) |
@@ -175,6 +177,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kaddharry/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaddharry/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/kaddharry/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaddharry/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
