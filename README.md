@@ -22,6 +22,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kaddharry/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kaddharry/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/kaddharry/DSA/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/kaddharry/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/kaddharry/DSA/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/kaddharry/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/kaddharry/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -146,6 +147,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kaddharry/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kaddharry/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/kaddharry/DSA/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/kaddharry/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/kaddharry/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaddharry/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kaddharry/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -188,6 +190,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaddharry/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaddharry/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/kaddharry/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/kaddharry/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaddharry/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Heap (Priority Queue)
