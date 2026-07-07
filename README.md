@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kaddharry/DSA/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kaddharry/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/kaddharry/DSA/tree/master/0202-happy-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaddharry/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/kaddharry/DSA/tree/master/1840-maximum-building-height) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kaddharry/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/kaddharry/DSA/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kaddharry/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kaddharry/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kaddharry/DSA/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaddharry/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -95,6 +97,7 @@
 | [0049-group-anagrams](https://github.com/kaddharry/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/kaddharry/DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/kaddharry/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kaddharry/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaddharry/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kaddharry/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kaddharry/DSA/tree/master/0238-product-of-array-except-self) |
