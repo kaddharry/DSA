@@ -81,6 +81,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaddharry/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kaddharry/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kaddharry/DSA/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/kaddharry/DSA/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaddharry/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -107,6 +108,7 @@
 | [0457-circular-array-loop](https://github.com/kaddharry/DSA/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/kaddharry/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/kaddharry/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/kaddharry/DSA/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaddharry/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/kaddharry/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaddharry/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -228,4 +230,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kaddharry/DSA/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kaddharry/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
