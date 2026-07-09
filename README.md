@@ -100,6 +100,7 @@
 | [0001-two-sum](https://github.com/kaddharry/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kaddharry/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kaddharry/DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/kaddharry/DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/kaddharry/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/kaddharry/DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/kaddharry/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -123,6 +124,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kaddharry/DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaddharry/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/kaddharry/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kaddharry/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
