@@ -36,6 +36,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kaddharry/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/kaddharry/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kaddharry/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/kaddharry/DSA/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/kaddharry/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kaddharry/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaddharry/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -53,6 +54,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kaddharry/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kaddharry/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kaddharry/DSA/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/kaddharry/DSA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/kaddharry/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kaddharry/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaddharry/DSA/tree/master/0142-linked-list-cycle-ii) |
