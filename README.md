@@ -12,6 +12,7 @@
 | [0141-linked-list-cycle](https://github.com/kaddharry/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaddharry/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kaddharry/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/kaddharry/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kaddharry/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kaddharry/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kaddharry/DSA/tree/master/0242-valid-anagram) |
@@ -105,6 +106,7 @@
 | [0088-merge-sorted-array](https://github.com/kaddharry/DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/kaddharry/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaddharry/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/kaddharry/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaddharry/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kaddharry/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kaddharry/DSA/tree/master/0238-product-of-array-except-self) |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kaddharry/DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/kaddharry/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kaddharry/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -145,6 +148,7 @@
 | [0049-group-anagrams](https://github.com/kaddharry/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/kaddharry/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/kaddharry/DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/kaddharry/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kaddharry/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kaddharry/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kaddharry/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -196,6 +200,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kaddharry/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kaddharry/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/kaddharry/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kaddharry/DSA/tree/master/0387-first-unique-character-in-a-string) |
