@@ -109,6 +109,7 @@
 | [0035-search-insert-position](https://github.com/kaddharry/DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/kaddharry/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/kaddharry/DSA/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kaddharry/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kaddharry/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaddharry/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/kaddharry/DSA/tree/master/0169-majority-element) |
@@ -258,4 +259,8 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/kaddharry/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/kaddharry/DSA/tree/master/0853-car-fleet) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kaddharry/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
