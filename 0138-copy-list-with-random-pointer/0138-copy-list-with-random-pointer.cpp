@@ -17,39 +17,25 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        Node dummy(0);
-        Node* tail = &dummy;
-        Node* p = head;
-        while (p) {
-            int z = p->val;
-            tail->next = new Node(z);
-            tail = tail->next;
-            tail->random = p->random;
-            p = p->next;
-        }
-        // p = head;
-        tail = dummy.next;
-        while (tail) {
-            int counter = 0; // tells about Index
-            p = head;
-            while (tail->random != p) {
-                if (!p)
-                    break;
-                p = p->next;
-                counter++;
+        unordered_map<Node*, Node*> oldToCopy;
+        oldToCopy[nullptr] = nullptr;
+
+        Node* cur = head;
+        while (cur != nullptr) {
+            if (oldToCopy.find(cur) == oldToCopy.end()) {
+                oldToCopy[cur] = new Node(0);
             }
-            if (!p) {
-                tail->random = NULL;
-            } else {
-                Node* temp = dummy.next;
-                while (counter) {
-                    temp = temp->next;
-                    counter--;
-                }
-                tail->random = temp;
+            oldToCopy[cur]->val = cur->val;
+            if (oldToCopy.find(cur->next) == oldToCopy.end()) {
+                oldToCopy[cur->next] = new Node(0);
             }
-            tail = tail->next;
+            oldToCopy[cur]->next = oldToCopy[cur->next];
+            if (oldToCopy.find(cur->random) == oldToCopy.end()) {
+                oldToCopy[cur->random] = new Node(0);
+            }
+            oldToCopy[cur]->random = oldToCopy[cur->random];
+            cur = cur->next;
         }
-        return dummy.next;
+        return oldToCopy[head];
     }
 };
