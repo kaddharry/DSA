@@ -16,26 +16,14 @@ public:
 
 class Solution {
 public:
+    unordered_map<Node*, Node*> mp;
     Node* copyRandomList(Node* head) {
-        unordered_map<Node*, Node*> oldToCopy;
-        oldToCopy[nullptr] = nullptr;
+        if(!head) return NULL;
 
-        Node* cur = head;
-        while (cur != nullptr) {
-            if (oldToCopy.find(cur) == oldToCopy.end()) {
-                oldToCopy[cur] = new Node(0);
-            }
-            oldToCopy[cur]->val = cur->val;
-            if (oldToCopy.find(cur->next) == oldToCopy.end()) {
-                oldToCopy[cur->next] = new Node(0);
-            }
-            oldToCopy[cur]->next = oldToCopy[cur->next];
-            if (oldToCopy.find(cur->random) == oldToCopy.end()) {
-                oldToCopy[cur->random] = new Node(0);
-            }
-            oldToCopy[cur]->random = oldToCopy[cur->random];
-            cur = cur->next;
-        }
-        return oldToCopy[head];
+        Node* copy = new Node(head->val);
+        mp[head] = copy;
+        copy->next = copyRandomList(head->next);
+        copy->random = mp[head->random];
+        return copy;
     }
 };
