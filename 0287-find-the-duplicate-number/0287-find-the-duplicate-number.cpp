@@ -1,23 +1,12 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        int slow = 0;
-        int fast = 0;
-
-        // phase 1: find intersection inside cycle
-        while (true) {
-            slow = nums[slow];
-            fast = nums[nums[fast]];
-            if (slow == fast) break;
+        int i = 0;
+        for(; i < nums.size(); i++){
+            int idx = abs(nums[i]);
+            if(nums[idx] < 0) break;
+            nums[idx] *= -1;
         }
-
-        // phase 2: find cycle entrance = duplicate
-        slow = 0;
-        while (slow != fast) {
-            slow = nums[slow];
-            fast = nums[fast];
-        }
-
-        return slow; // both point to duplicate
+        return abs(nums[i]);
     }
 };
