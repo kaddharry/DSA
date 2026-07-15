@@ -11,6 +11,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/kaddharry/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kaddharry/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaddharry/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/kaddharry/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kaddharry/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kaddharry/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kaddharry/DSA/tree/master/0202-happy-number) |
@@ -41,6 +42,7 @@
 | [0141-linked-list-cycle](https://github.com/kaddharry/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaddharry/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/kaddharry/DSA/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/kaddharry/DSA/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/kaddharry/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kaddharry/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kaddharry/DSA/tree/master/0234-palindrome-linked-list) |
@@ -256,6 +258,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kaddharry/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kaddharry/DSA/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
@@ -268,4 +271,8 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kaddharry/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaddharry/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kaddharry/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
