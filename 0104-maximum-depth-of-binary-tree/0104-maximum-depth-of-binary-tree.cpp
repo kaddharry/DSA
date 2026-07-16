@@ -12,7 +12,14 @@
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
-        if(!root) return 0;
-        return 1 + max(maxDepth(root->left), maxDepth(root->right));
+        // Base case: An empty tree has a depth of 0
+        if (!root) return 0;
+        
+        // Recursive step: Find the depth of both subtrees
+        int leftDepth = maxDepth(root->left);
+        int rightDepth = maxDepth(root->right);
+        
+        // Return the larger depth, plus 1 for the current root node
+        return 1 + max(leftDepth, rightDepth);
     }
 };
