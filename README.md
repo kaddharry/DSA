@@ -114,6 +114,7 @@
 | [0035-search-insert-position](https://github.com/kaddharry/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/kaddharry/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/kaddharry/DSA/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/kaddharry/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/kaddharry/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaddharry/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kaddharry/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -143,6 +144,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kaddharry/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kaddharry/DSA/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/kaddharry/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaddharry/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/kaddharry/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kaddharry/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -299,4 +301,8 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaddharry/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kaddharry/DSA/tree/master/0226-invert-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/kaddharry/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
