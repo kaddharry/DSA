@@ -294,6 +294,7 @@
 | [0113-path-sum-ii](https://github.com/kaddharry/DSA/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/kaddharry/DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kaddharry/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kaddharry/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -304,6 +305,7 @@
 | [0113-path-sum-ii](https://github.com/kaddharry/DSA/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/kaddharry/DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kaddharry/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kaddharry/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -321,6 +323,7 @@
 | [0113-path-sum-ii](https://github.com/kaddharry/DSA/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/kaddharry/DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kaddharry/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kaddharry/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -329,4 +332,12 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/kaddharry/DSA/tree/master/0113-path-sum-ii) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kaddharry/DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kaddharry/DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
