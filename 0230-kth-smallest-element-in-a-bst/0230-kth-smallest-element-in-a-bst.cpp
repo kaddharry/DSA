@@ -1,33 +1,31 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
-
 class Solution {
 public:
     int ans;
     int counter;
-    void helper(TreeNode* node){
-        if(!node) return;
 
-        helper(node->left);
-        if(counter == 0){
+    bool helper(TreeNode* node) {
+        if (!node)
+            return true;   // Keep searching
+
+        // Search left subtree
+        if (!helper(node->left))
+            return false;
+
+        // Visit current node
+        if (counter == 0) {
             ans = node->val;
-            counter = INT_MAX;
-            return;
+            return false;   // Found it, stop everything
         }
-        else counter--;
-        helper(node->right);
+        counter--;
+
+        // Search right subtree
+        if (!helper(node->right))
+            return false;
+
+        return true;        // Didn't find it in this subtree
     }
+
     int kthSmallest(TreeNode* root, int k) {
-        ans = 0;
         counter = k - 1;
         helper(root);
         return ans;
