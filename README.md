@@ -27,6 +27,7 @@
 | [0409-longest-palindrome](https://github.com/kaddharry/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/kaddharry/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/kaddharry/DSA/tree/master/0457-circular-array-loop) |
+| [0496-next-greater-element-i](https://github.com/kaddharry/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kaddharry/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kaddharry/DSA/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/kaddharry/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -102,6 +103,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaddharry/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kaddharry/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kaddharry/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/kaddharry/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kaddharry/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/kaddharry/DSA/tree/master/0853-car-fleet) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaddharry/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -143,6 +145,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kaddharry/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kaddharry/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0457-circular-array-loop](https://github.com/kaddharry/DSA/tree/master/0457-circular-array-loop) |
+| [0496-next-greater-element-i](https://github.com/kaddharry/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kaddharry/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/kaddharry/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/kaddharry/DSA/tree/master/0739-daily-temperatures) |
@@ -287,6 +290,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kaddharry/DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/kaddharry/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kaddharry/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/kaddharry/DSA/tree/master/0853-car-fleet) |
 ## Dynamic Programming
