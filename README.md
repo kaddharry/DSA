@@ -317,6 +317,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kaddharry/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kaddharry/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/kaddharry/DSA/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/kaddharry/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kaddharry/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kaddharry/DSA/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kaddharry/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -337,6 +338,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kaddharry/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kaddharry/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/kaddharry/DSA/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/kaddharry/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kaddharry/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kaddharry/DSA/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kaddharry/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -349,6 +351,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/kaddharry/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kaddharry/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/kaddharry/DSA/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/kaddharry/DSA/tree/master/0404-sum-of-left-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kaddharry/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -367,6 +370,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kaddharry/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kaddharry/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/kaddharry/DSA/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/kaddharry/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kaddharry/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kaddharry/DSA/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kaddharry/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
