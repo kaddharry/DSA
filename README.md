@@ -327,6 +327,7 @@
 | [0572-subtree-of-another-tree](https://github.com/kaddharry/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kaddharry/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaddharry/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/kaddharry/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kaddharry/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -388,6 +389,7 @@
 | [0572-subtree-of-another-tree](https://github.com/kaddharry/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kaddharry/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaddharry/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/kaddharry/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kaddharry/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
@@ -413,6 +415,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kaddharry/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kaddharry/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/kaddharry/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/kaddharry/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Memoization
 |  |
 | ------- |
