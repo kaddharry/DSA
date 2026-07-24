@@ -1,43 +1,36 @@
 class Solution {
 public:
-    void helper(TreeNode* root, vector<int>& in) {
+    TreeNode* prev = nullptr;
+    int count = 0;
+    int maxFreq = 0;
+    vector<int> ans;
+
+    void inorder(TreeNode* root) {
         if (!root) return;
 
-        helper(root->left, in);
-        in.push_back(root->val);
-        helper(root->right, in);
+        inorder(root->left);
+
+        if (prev && prev->val == root->val)
+            count++;
+        else
+            count = 1;
+
+        if (count > maxFreq) {
+            maxFreq = count;
+            ans.clear();
+            ans.push_back(root->val);
+        }
+        else if (count == maxFreq) {
+            ans.push_back(root->val);
+        }
+
+        prev = root;
+
+        inorder(root->right);
     }
 
     vector<int> findMode(TreeNode* root) {
-        vector<int> in;
-        helper(root, in);
-
-        vector<int> res;
-
-        int maxFreq = 0;
-        int count = 1;
-
-        for (int i = 0; i < in.size(); i++) {
-
-            // Same value as previous
-            if (i > 0 && in[i] == in[i - 1]) {
-                count++;
-            }
-            // New value starts
-            else {
-                count = 1;
-            }
-
-            if (count > maxFreq) {
-                maxFreq = count;
-                res.clear();
-                res.push_back(in[i]);
-            }
-            else if (count == maxFreq) {
-                res.push_back(in[i]);
-            }
-        }
-
-        return res;
+        inorder(root);
+        return ans;
     }
 };
