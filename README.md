@@ -444,4 +444,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/kaddharry/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kaddharry/DSA/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/kaddharry/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
