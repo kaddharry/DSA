@@ -32,6 +32,7 @@
 | [0567-permutation-in-string](https://github.com/kaddharry/DSA/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/kaddharry/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaddharry/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/kaddharry/DSA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0509-fibonacci-number](https://github.com/kaddharry/DSA/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaddharry/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/kaddharry/DSA/tree/master/1840-maximum-building-height) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/kaddharry/DSA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 ## Stack
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/kaddharry/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/kaddharry/DSA/tree/master/1840-maximum-building-height) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kaddharry/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/kaddharry/DSA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -253,6 +256,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/kaddharry/DSA/tree/master/0409-longest-palindrome) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaddharry/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/kaddharry/DSA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 ## Counting Sort
 |  |
 | ------- |
