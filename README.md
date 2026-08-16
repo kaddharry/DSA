@@ -465,6 +465,7 @@
 | [1148-article-views-i](https://github.com/kaddharry/DSA/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/kaddharry/DSA/tree/master/1174-immediate-food-delivery-ii) |
 | [1321-restaurant-growth](https://github.com/kaddharry/DSA/tree/master/1321-restaurant-growth) |
+| [1341-movie-rating](https://github.com/kaddharry/DSA/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/kaddharry/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/kaddharry/DSA/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/kaddharry/DSA/tree/master/1527-patients-with-a-condition) |
