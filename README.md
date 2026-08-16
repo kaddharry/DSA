@@ -463,6 +463,7 @@
 | [1148-article-views-i](https://github.com/kaddharry/DSA/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/kaddharry/DSA/tree/master/1174-immediate-food-delivery-ii) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/kaddharry/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1484-group-sold-products-by-the-date](https://github.com/kaddharry/DSA/tree/master/1484-group-sold-products-by-the-date) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/kaddharry/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/kaddharry/DSA/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/kaddharry/DSA/tree/master/1661-average-time-of-process-per-machine) |
