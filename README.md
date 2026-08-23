@@ -89,6 +89,7 @@
 | [0070-climbing-stairs](https://github.com/kaddharry/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/kaddharry/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaddharry/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/kaddharry/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/kaddharry/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kaddharry/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/kaddharry/DSA/tree/master/0509-fibonacci-number) |
@@ -211,6 +212,7 @@
 | [0020-valid-parentheses](https://github.com/kaddharry/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kaddharry/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kaddharry/DSA/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/kaddharry/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/kaddharry/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/kaddharry/DSA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/kaddharry/DSA/tree/master/0290-word-pattern) |
