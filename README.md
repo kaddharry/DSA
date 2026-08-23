@@ -486,4 +486,8 @@
 | [1789-primary-department-for-each-employee](https://github.com/kaddharry/DSA/tree/master/1789-primary-department-for-each-employee) |
 | [1934-confirmation-rate](https://github.com/kaddharry/DSA/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/kaddharry/DSA/tree/master/1978-employees-whose-manager-left-the-company) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/kaddharry/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
