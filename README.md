@@ -181,6 +181,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kaddharry/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/kaddharry/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/kaddharry/DSA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/kaddharry/DSA/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
@@ -314,6 +315,7 @@
 | [0118-pascals-triangle](https://github.com/kaddharry/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kaddharry/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaddharry/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/kaddharry/DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/kaddharry/DSA/tree/master/0509-fibonacci-number) |
 ## Doubly-Linked List
 |  |
