@@ -135,6 +135,7 @@
 | [0066-plus-one](https://github.com/kaddharry/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/kaddharry/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/kaddharry/DSA/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/kaddharry/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaddharry/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kaddharry/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaddharry/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -309,6 +310,7 @@
 | [0070-climbing-stairs](https://github.com/kaddharry/DSA/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kaddharry/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/kaddharry/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/kaddharry/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaddharry/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/kaddharry/DSA/tree/master/0509-fibonacci-number) |
 ## Doubly-Linked List
