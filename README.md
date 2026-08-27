@@ -28,6 +28,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/kaddharry/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/kaddharry/DSA/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/kaddharry/DSA/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/kaddharry/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/kaddharry/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kaddharry/DSA/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/kaddharry/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -152,6 +153,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/kaddharry/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0457-circular-array-loop](https://github.com/kaddharry/DSA/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/kaddharry/DSA/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/kaddharry/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/kaddharry/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/kaddharry/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/kaddharry/DSA/tree/master/0739-daily-temperatures) |
@@ -225,6 +227,7 @@
 | [0389-find-the-difference](https://github.com/kaddharry/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/kaddharry/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/kaddharry/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/kaddharry/DSA/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/kaddharry/DSA/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/kaddharry/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaddharry/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
