@@ -31,6 +31,7 @@
 | [0500-keyboard-row](https://github.com/kaddharry/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/kaddharry/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kaddharry/DSA/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/kaddharry/DSA/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/kaddharry/DSA/tree/master/0697-degree-of-an-array) |
 | [0819-most-common-word](https://github.com/kaddharry/DSA/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/kaddharry/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -157,6 +158,7 @@
 | [0496-next-greater-element-i](https://github.com/kaddharry/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/kaddharry/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/kaddharry/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/kaddharry/DSA/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/kaddharry/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/kaddharry/DSA/tree/master/0697-degree-of-an-array) |
 | [0739-daily-temperatures](https://github.com/kaddharry/DSA/tree/master/0739-daily-temperatures) |
