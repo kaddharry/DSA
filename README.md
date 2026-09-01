@@ -86,6 +86,7 @@
 | [0457-circular-array-loop](https://github.com/kaddharry/DSA/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/kaddharry/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/kaddharry/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/kaddharry/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kaddharry/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaddharry/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -170,6 +171,7 @@
 | [0819-most-common-word](https://github.com/kaddharry/DSA/tree/master/0819-most-common-word) |
 | [0853-car-fleet](https://github.com/kaddharry/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/kaddharry/DSA/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/kaddharry/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaddharry/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/kaddharry/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaddharry/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -215,6 +217,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/kaddharry/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/kaddharry/DSA/tree/master/0389-find-the-difference) |
 | [0853-car-fleet](https://github.com/kaddharry/DSA/tree/master/0853-car-fleet) |
+| [0977-squares-of-a-sorted-array](https://github.com/kaddharry/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaddharry/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/kaddharry/DSA/tree/master/1840-maximum-building-height) |
 ## Merge Sort
