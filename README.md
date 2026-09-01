@@ -36,6 +36,7 @@
 | [0819-most-common-word](https://github.com/kaddharry/DSA/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/kaddharry/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaddharry/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1796-second-largest-digit-in-a-string](https://github.com/kaddharry/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/kaddharry/DSA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 ## Linked List
 |  |
@@ -240,6 +241,7 @@
 | [0819-most-common-word](https://github.com/kaddharry/DSA/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/kaddharry/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaddharry/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1796-second-largest-digit-in-a-string](https://github.com/kaddharry/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kaddharry/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/kaddharry/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kaddharry/DSA/tree/master/3614-process-string-with-special-operations-ii) |
