@@ -8,7 +8,7 @@ public:
             char a = s[i];
             char b = t[i];
             cost += abs(a - b);
-            while(cost > maxCost && l <= i){
+            while(cost > maxCost && l < i){
                 char x = s[l];
                 char y = t[l];
                 cost -= abs(x - y);
