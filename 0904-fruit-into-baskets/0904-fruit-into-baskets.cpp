@@ -1,36 +1,20 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        unordered_map<int, int> lastSeen;
-
-        int start = 0;
-        int res = 0;
-
-        for (int i = 0; i < fruits.size(); i++) {
-
-            lastSeen[fruits[i]] = i;
-
-            if (lastSeen.size() > 2) {
-
-                // Find the type whose last occurrence is earliest
-                int oldestType = fruits[i];
-                int oldestIndex = i;
-
-                for (auto& p : lastSeen) {
-                    if (p.second < oldestIndex) {
-                        oldestIndex = p.second;
-                        oldestType = p.first;
-                    }
-                }
-
-                // Remove everything before/including its last occurrence
-                start = oldestIndex + 1;
-                lastSeen.erase(oldestType);
+        int l = 0, r = 0;
+        int ans = 0;
+        unordered_map<int, int> mp;
+        while (r < fruits.size()) {
+            mp[fruits[r]]++;
+            while (mp.size() > 2) {
+                mp[fruits[l]]--;
+                if (mp[fruits[l]] == 0)
+                    mp.erase(fruits[l]);
+                l++;
             }
-
-            res = max(res, i - start + 1);
+            ans = max(ans, r - l + 1);
+            r++;
         }
-
-        return res;
+        return ans;
     }
 };
