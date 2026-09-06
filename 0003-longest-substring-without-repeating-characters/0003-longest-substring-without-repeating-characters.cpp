@@ -1,7 +1,7 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        vector<int> freq(256,-1);
+        vector<int> freq(256,-1); //char can be represented in 256 ways
         int maxl = 0;
         int start = 0;
 
