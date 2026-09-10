@@ -97,6 +97,7 @@
 | [0009-palindrome-number](https://github.com/kaddharry/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/kaddharry/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/kaddharry/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kaddharry/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kaddharry/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/kaddharry/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaddharry/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -200,6 +201,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kaddharry/DSA/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/kaddharry/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/kaddharry/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/kaddharry/DSA/tree/master/0338-counting-bits) |
@@ -237,6 +239,7 @@
 | [0020-valid-parentheses](https://github.com/kaddharry/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kaddharry/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kaddharry/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/kaddharry/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/kaddharry/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kaddharry/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/kaddharry/DSA/tree/master/0171-excel-sheet-column-number) |
@@ -263,6 +266,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kaddharry/DSA/tree/master/0067-add-binary) |
 | [3612-process-string-with-special-operations-i](https://github.com/kaddharry/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kaddharry/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 ## Prefix Sum
