@@ -35,6 +35,7 @@
 | [0697-degree-of-an-array](https://github.com/kaddharry/DSA/tree/master/0697-degree-of-an-array) |
 | [0819-most-common-word](https://github.com/kaddharry/DSA/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/kaddharry/DSA/tree/master/0904-fruit-into-baskets) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/kaddharry/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/kaddharry/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaddharry/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/kaddharry/DSA/tree/master/1796-second-largest-digit-in-a-string) |
@@ -178,6 +179,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/kaddharry/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaddharry/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/kaddharry/DSA/tree/master/1052-grumpy-bookstore-owner) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/kaddharry/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kaddharry/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1732-find-the-highest-altitude](https://github.com/kaddharry/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaddharry/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -255,6 +257,7 @@
 | [0500-keyboard-row](https://github.com/kaddharry/DSA/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/kaddharry/DSA/tree/master/0567-permutation-in-string) |
 | [0819-most-common-word](https://github.com/kaddharry/DSA/tree/master/0819-most-common-word) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/kaddharry/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/kaddharry/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1208-get-equal-substrings-within-budget](https://github.com/kaddharry/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaddharry/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -290,6 +293,7 @@
 | [0383-ransom-note](https://github.com/kaddharry/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kaddharry/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/kaddharry/DSA/tree/master/0819-most-common-word) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/kaddharry/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/kaddharry/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
