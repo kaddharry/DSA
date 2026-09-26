@@ -162,6 +162,7 @@
 | [0217-contains-duplicate](https://github.com/kaddharry/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kaddharry/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kaddharry/DSA/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/kaddharry/DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/kaddharry/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kaddharry/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/kaddharry/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -207,6 +208,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/kaddharry/DSA/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/kaddharry/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0260-single-number-iii](https://github.com/kaddharry/DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/kaddharry/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/kaddharry/DSA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/kaddharry/DSA/tree/master/0389-find-the-difference) |
