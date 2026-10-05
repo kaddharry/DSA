@@ -38,6 +38,7 @@
 | [0904-fruit-into-baskets](https://github.com/kaddharry/DSA/tree/master/0904-fruit-into-baskets) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kaddharry/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/kaddharry/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/kaddharry/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaddharry/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/kaddharry/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/kaddharry/DSA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -183,6 +184,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/kaddharry/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/kaddharry/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kaddharry/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/kaddharry/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kaddharry/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1732-find-the-highest-altitude](https://github.com/kaddharry/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaddharry/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -276,6 +278,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kaddharry/DSA/tree/master/0067-add-binary) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/kaddharry/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/kaddharry/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kaddharry/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 ## Prefix Sum
@@ -479,6 +482,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kaddharry/DSA/tree/master/0074-search-a-2d-matrix) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/kaddharry/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Backtracking
 |  |
 | ------- |
