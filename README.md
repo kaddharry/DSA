@@ -176,6 +176,7 @@
 | [0500-keyboard-row](https://github.com/kaddharry/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/kaddharry/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/kaddharry/DSA/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/kaddharry/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/kaddharry/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/kaddharry/DSA/tree/master/0697-degree-of-an-array) |
 | [0739-daily-temperatures](https://github.com/kaddharry/DSA/tree/master/0739-daily-temperatures) |
@@ -314,6 +315,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/kaddharry/DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/kaddharry/DSA/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/kaddharry/DSA/tree/master/0605-can-place-flowers) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaddharry/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/kaddharry/DSA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 ## Counting Sort
