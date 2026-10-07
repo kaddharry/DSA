@@ -87,6 +87,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kaddharry/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kaddharry/DSA/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kaddharry/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/kaddharry/DSA/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/kaddharry/DSA/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/kaddharry/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/kaddharry/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -169,6 +170,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kaddharry/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/kaddharry/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kaddharry/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/kaddharry/DSA/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/kaddharry/DSA/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/kaddharry/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/kaddharry/DSA/tree/master/0500-keyboard-row) |
@@ -234,6 +236,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kaddharry/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kaddharry/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/kaddharry/DSA/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/kaddharry/DSA/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/kaddharry/DSA/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/kaddharry/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaddharry/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -310,6 +313,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/kaddharry/DSA/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/kaddharry/DSA/tree/master/0455-assign-cookies) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaddharry/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/kaddharry/DSA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 ## Counting Sort
@@ -557,4 +561,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/kaddharry/DSA/tree/master/0202-happy-number) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/kaddharry/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
