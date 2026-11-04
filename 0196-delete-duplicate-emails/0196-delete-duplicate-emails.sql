@@ -1,9 +1,10 @@
 # Write your MySQL query statement below
-delete from Person
+with temp as (
+    select min(id) as id
+    from person
+    group by email
+)
+delete from person
 where id not in (
-    select id from (
-        select min(id) as id
-        from Person
-        group by email
-    ) as temp
+    select id from temp
 )
