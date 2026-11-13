@@ -108,6 +108,7 @@
 | [0171-excel-sheet-column-number](https://github.com/kaddharry/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/kaddharry/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kaddharry/DSA/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/kaddharry/DSA/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/kaddharry/DSA/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaddharry/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/kaddharry/DSA/tree/master/1840-maximum-building-height) |
@@ -283,6 +284,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kaddharry/DSA/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/kaddharry/DSA/tree/master/0258-add-digits) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/kaddharry/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/kaddharry/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kaddharry/DSA/tree/master/3614-process-string-with-special-operations-ii) |
@@ -567,4 +569,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kaddharry/DSA/tree/master/0455-assign-cookies) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kaddharry/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
